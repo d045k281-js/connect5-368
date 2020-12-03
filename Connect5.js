@@ -1,5 +1,6 @@
 //Player1=1
 //Player2=2
+//Player3=3
 
   
 let player1= prompt("Player 1 name", "");
